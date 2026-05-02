@@ -1,0 +1,7 @@
+friction=2.1
+snapSpeed=30
+fullscreen=false
+width= 794
+height=1123
+stretch=false
+nb=32
